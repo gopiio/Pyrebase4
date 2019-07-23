@@ -18,7 +18,7 @@ setup(
     install_requires=[
         'requests>=2.19.1',
         'requests_toolbelt>=0.7.1',
-        'gcloud==0.18.3',
+        'google-cloud==0.34.0',
         'oauth2client==4.1.2',
         'python-jwt==2.0.1',
         'pycryptodome>=3.6.4'
